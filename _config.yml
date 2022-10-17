@@ -1,6 +1,6 @@
 # main text of home
-title: John Doe
-bio: A Person whddddddddddddddddo travels the world eating noodles
+title: Nai Ching Hsiao
+bio: A Person who travels the world eating noodles
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -34,7 +34,7 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
+facebook: Nai Ching Hsiao
 twitter: mytwitter
 instagram: myinstagram
 linkedin: mylinkedin
